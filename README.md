@@ -5,7 +5,7 @@
 - 💻 Passionate about **software development** and exploring new technologies  
 - 📚 Sharing knowledge by creating **Python tutorials**  
 - 🌱 Currently learning **C++** and **Java**  
-- 🔭 Building projects in **Flutter, Tkinter, Kivy**  
+- 🔭 Building projects with **Tkinter** and **Pygame**  
 - ⚡ Fun fact: I enjoy solving problems immediately, not tomorrow 😎  
 
 ---
@@ -18,9 +18,8 @@
 ![Java](https://img.shields.io/badge/Java-Beginner-orange?logo=java&logoColor=white)  
 
 ### 🧰 Frameworks & Tools  
-![Flutter](https://img.shields.io/badge/Flutter-UI-blue?logo=flutter)  
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)  
-![Kivy](https://img.shields.io/badge/Kivy-Mobile-lightgreen)  
+![Pygame](https://img.shields.io/badge/Pygame-2D%20Games-yellow)  
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-C++-black?logo=unrealengine)  
 ![Unity](https://img.shields.io/badge/Unity-C%23-black?logo=unity)  
 
@@ -33,17 +32,17 @@
 ---
 
 ## ✨ Projects  
-- 📱 **Restaurant App** – Azerbaijani style UI (Python + Flutter/Tkinter)  
+- 📱 **Restaurant App** – Azerbaijani style UI (Python + Tkinter)  
 - 🗂️ **Inventory & Calculator Management** – Government approved project  
 - 📚 **Python Tutorials** – Teaching and helping beginners  
-- 📑 **Task Manager App** – Flutter, modern Azerbaijani interface  
+- 🎮 **2D Projects with Pygame** – Classic game mechanics in Python  
 
 ---
 
 ## 📫 Contact  
-- 💌 Email: *[your email here]*  
-- 🌐 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- 💌 Email: **rsulovbabk3@gmail.com**  
+- 🌐 GitHub: [github.com/gl1tch011](https://github.com/gl1tch011)  
 
 ---
 
-⭐️ From [Babek](https://github.com/YOUR_USERNAME)
+⭐️ From [Babek](https://github.com/gl1tch011)
