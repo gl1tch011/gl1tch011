@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Babek 👋  
 
-<!--
-**gl1tch011/gl1tch011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Young developer from Azerbaijan, passionate about **Python** and **C++**  
+- 🥈 2nd place winner in a **national Python programming Olympiad**  
+- 💻 Currently focusing on **Unity (C#/C++)**, **Unreal Engine (C++)**, and **mobile app development (Flutter, Kivy, Tkinter)**  
+- 🎮 Love creating **game projects** (FIFA-style animations, card opening mechanics, labyrinth games)  
+- 📚 Interested in **teaching Python** and sharing knowledge with others  
+- 🌍 Always learning, building, and exploring new technologies  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, C#, Dart, JavaScript  
+- **Frameworks & Tools:** Unity, Unreal Engine, Flutter, Kivy, Tkinter  
+- **Other:** Git, Linux, REST APIs, WebSocket  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Projects
+- 🎴 **3D Mobile Football Card Opening System** (Unreal Engine, PES-style animation)  
+- 📱 **Restaurant App** with Azerbaijani style UI (Python + Tkinter / Flutter)  
+- 🗂️ **Inventory & Calculator Management Program** (Government-approved project)  
+- 🎮 **Labyrinth Mobile Game** (Unity & Kivy, fully in Azerbaijani)  
+
+## 📫 Contact
+- 💌 Email: *[your email here]*  
+- 🌐 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+
+---
+⭐️ From [Babek](https://github.com/YOUR_USERNAME)
